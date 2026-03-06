@@ -1,0 +1,8 @@
+{
+  "name": "multi-sig-safe-core",
+  "version": "1.0.0",
+  "description": "M-of-N Multi-signature wallet for EVM chains",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
